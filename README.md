@@ -5,4 +5,5 @@
 <img src="img\loginInsta.png">
 
 
-
+<a href="https://www.linkedin.com/in/aragon%C3%AAs-rodrigues/">Meu LinkedIn</a>
+ 
