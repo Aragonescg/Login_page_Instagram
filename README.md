@@ -8,6 +8,6 @@
 
 ### Contatos:
 
-<a href="https://www.linkedin.com/in/aragon%C3%AAs-rodrigues/">Meu LinkedIn</a>
-<a href="https://github.com/Aragonescg">GitHub</a> 
-<a href="aragonesrodriguesbastista@gmail.com">E-mail</a>
+<a href="https://www.linkedin.com/in/aragon%C3%AAs-rodrigues/">Meu LinkedIn</a> <br>
+<a href="https://github.com/Aragonescg">GitHub</a> <br>
+<a href="mailto:aragonesrodriguesbastista@gmail.com">E-mail</a>
