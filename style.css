@@ -17,11 +17,19 @@ body {
     justify-content: center;
 }
 
+.main-container{
+    display: flex;
+    flex-direction: column;
+    min-width: 100vh;
+    height: 100vh;
+    justify-content: start;
+    align-items: center;
+}
 .instagram-wrapper {
     display: flex;
     align-items: center;
     justify-content: start;
-    width: 60%;
+    width: 80%;
     height: 100vh;
 }
 
@@ -45,6 +53,7 @@ body {
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
+    margin-left: 10%;
 }
 
 .group {
@@ -129,13 +138,32 @@ body {
     background-image: url('./img/google-button.png');
 }
 
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 100%;
+}
+
+.footer p {
+    color: rgb(140, 137, 137);
+    word-spacing: 13px;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.copy {
+    margin-top: 12px;
+}
+
 
 /* MOBILE */
 
 @media(max-width: 1024px) {
-    .instagram-wrapper {
+    .main-container {
         width: 90%;
     }
+  
 }
 
 @media(max-width: 650px) {
@@ -144,7 +172,7 @@ body {
         background-color: #ffffff;
     }
 
-    .instagram-wrapper {
+    .main-container {
         width: 90%;
     }
 
@@ -153,10 +181,11 @@ body {
     }
 
     .instagram-continue {
-        width: 100%;
+        width: 90%;
     }
 
     .group {
         border: 1px solid transparent;
     }
+
 }
